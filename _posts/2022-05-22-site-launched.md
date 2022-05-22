@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alex ZUcca"
+title: "Alex Zucca"
 date: 2022-05-22
 ---
 
